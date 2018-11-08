@@ -1,0 +1,12 @@
+#####################################################################
+# TorrentLocker Ransomware C2 IP blocklist (TL_PS_IPBL)             #
+# Generated on 2018-11-03 19:40:02 UTC                              #
+#                                                                   #
+# For questions please refer to:                                    #
+# https://ransomwaretracker.abuse.ch/blocklist/                     #
+#####################################################################
+194.58.56.103
+194.58.56.121
+194.58.56.173
+194.58.56.69
+# 4 entries
